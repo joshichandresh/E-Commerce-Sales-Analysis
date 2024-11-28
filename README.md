@@ -31,3 +31,13 @@ Something must be done. The company should either focus on specific areas of the
 Something must be done. Maybe some products should be either removed from the catalogue, or the discounts on them should be highly cut.</p>
 <h3>5. Customer Personas:</h3>
 <p>The customers can be grouped in three spending (or better profit) categories. The highest value customers must be kept at any cost, while something should be done to make the lowest value customers rise to more profitable classes.</p>
+<h3>Tech Stack/Frameworks:</h3>
+<p>Numpy, Pandas, matplotlib, seaborn</p>
+<h3>ML MODELS:</h3>
+<p><li>K-Means Clustering Model</li>
+<li> Agglomerative Clustering Model</li></p>
+<h3>Contributions</h3>
+<p>Contributions to this project are welcome! If you have any suggestions, improvements, or new features to add, please open an issue or submit a pull request.
+
+This project makes use of the following open-source libraries and frameworks:</p>
+<h1>Machine Learning Libraries:</h1>
