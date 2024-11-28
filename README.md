@@ -1,7 +1,7 @@
 <h1>SUPERSTORE E-Commerce (Sales & Profits Analysis)</h1>
 <h3>EXECUTIVE OVERVIEW:</h3>
 <p>On this project I decided to use the SuperStore dataset which represents a sample of online sales for USA retailer store. It includes information of orders, multiple categories, and geographical locations. This is an external and open-source dataset that was created for educational purposes in order to familiarize its new users to visualizations. The data was not collected and was generated fictitiously to simulate a retail business. Therefore, extrapolating its behavior to generalize or draw conclusions about similar type of businesses is not recommended.</p>
-<h2>Business Questions:</h2>
+<h1>Business Questions:</h1>
 
 <ul>
 <li>Which states and cities are generating the highest revenue?</li>
@@ -32,7 +32,7 @@ Something must be done. Maybe some products should be either removed from the ca
 <h3>5. Customer Personas:</h3>
 <p>The customers can be grouped in three spending (or better profit) categories. The highest value customers must be kept at any cost, while something should be done to make the lowest value customers rise to more profitable classes.</p>
 <h1>Tech Stack/Frameworks:</h1>
-<p>Numpy, Pandas, matplotlib, seaborn</p>
+<p>Numpy, Pandas, matplotlib, seaborn, Scikit-learn</p>
 <h1>MACINE LEARNING MODELS:</h1>
 <p><li>K-Means Clustering Model</li>
 <li> Agglomerative Clustering Model</li></p>
@@ -41,4 +41,13 @@ Something must be done. Maybe some products should be either removed from the ca
 
 This project makes use of the following open-source libraries and frameworks:</p>
 <h1>Machine Learning Libraries:</h1>
-<p>Pandas:</p><a href="https://pandas.pydata.org/">https://pandas.pydata.org/</a>
+Pandas:<a href="https://pandas.pydata.org/">https://pandas.pydata.org/</a>
+Numpy:<a href="https://numpy.org/">https://numpy.org/</a>
+Matplotlib:<a href="https://matplotlib.org/">https://matplotlib.org/</a>
+Seaborn:<a href="https://seaborn.pydata.org/">https://seaborn.pydata.org/</a>
+Scikit-learn:<a href="https://scikit-learn.org/stable/">https://scikit-learn.org/stable/</a>
+<h1>Acknowledgements</h1>
+<p>The project utilises several open-source libraries and frameworks, including Data Cleaning: NumPy, Pandas,Visualization: Matplotlib, Seaborn,TensorFlow,Keras. We extend our heartfelt thanks to the developers of these tools for their invaluable contributions to the open-source community.
+
+We want to thank the creators of these tools for their priceless contributions to the open-source world.</p>
+THANK YOU!
