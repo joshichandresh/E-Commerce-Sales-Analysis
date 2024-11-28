@@ -12,3 +12,22 @@
    <li>What is the most preferred shipping mode among our customers?</li>
    <li>How has the company's performance trended over recent months?</li>
 </ul>
+<h1>FINAL INSIGHTS:</h1>
+<h3>1. Sales to Profit Ratio</h3>
+<p>The sales and profit grew almost constantly in the years 2014-2017. The sales to profit ratio increased between 2014 and 2015, but then it stayed quite stable. Therefore, in order to further increase the profit, the company should either increase its sales or the profit ratio, by cutting the unnecessary expenses.</p>
+<h3>2. Shipping:</h3>
+<p>There are four shipping classes: Same Day, First Class, Second Class and Standard Class.
+The delivery distribution of the Same Day class has a high peak and also a much smaller one. The delivery distributions of the other 3 shipping classes are multi-peaked and they are also highly spread in time. Their delivery date is quite 'random'.
+
+It would be very inportant to standardize the shipping deliveries in order to provide a better service.</p>
+<h3>3. Key Areas:</h3>
+<p>California is the top selling state (20% of the sales), then New York (11%) and Texas (10%). New York and Los Angeles are the top selling cities. Moreover, more than half of the sales is generated in the top-20 cities of the USA.
+There are also cities (like Philadelphia and Houston) that constantly generate negative profits.
+
+Something must be done. The company should either focus on specific areas of the country (the most profitable ones) or it should invest in order to improve its performance in the least profitable areas.</p>
+<h3>4. More and Less Profitable Product Categories</h3>
+<p>Technology and office supplies are quite profitable categories; furniture is much less. Moreover, there are sub-categories of products (like the tables) that generate negative profits.
+
+Something must be done. Maybe some products should be either removed from the catalogue, or the discounts on them should be highly cut.</p>
+<h3>5. Customer Personas:</h3>
+<p>The customers can be grouped in three spending (or better profit) categories. The highest value customers must be kept at any cost, while something should be done to make the lowest value customers rise to more profitable classes.</p>
