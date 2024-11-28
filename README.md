@@ -1,2 +1,2 @@
-<h1>SUPERSTORE E-Commerce (Sales & Profits Analysis)
-</h1>
+<h1>SUPERSTORE E-Commerce (Sales & Profits Analysis)</h1>
+<p>On this project I decided to use the SuperStore dataset which represents a sample of online sales for USA retailer store. It includes information of orders, multiple categories, and geographical locations. This is an external and open-source dataset that was created by Tableau for educational purposes in order to familiarize its new users to visualizations. The data was not collected and was generated fictitiously to simulate a retail business. Therefore, extrapolating its behavior to generalize or draw conclusions about similar type of businesses is not recommended.</p>
